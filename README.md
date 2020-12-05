@@ -4,7 +4,7 @@
 Creating a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package that is invoked by using the "node index.js" command on the user's local computer's terminal.
 
 ## Links
-1. [Github Repository](https://github.com/jkaganovsky/README-Generator)
+[Github Repository](https://github.com/jkaganovsky/README-Generator)
 
 ## Installation & Usage
 1. Clone this repository from my github link.
@@ -14,7 +14,7 @@ Creating a command-line application that dynamically generates a professional RE
 
 ## Content
 * DEMO
-[gif](./assets/images/README.gif)
+    [gif](./assets/images/README.gif)
 
 ## Credits
 1. My Trilogy Educatrion Tutor, Jacob Carver - https://www.linkedin.com/in/jacob-carver-software-developer125b81191/
