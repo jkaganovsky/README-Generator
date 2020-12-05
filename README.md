@@ -19,7 +19,7 @@ Creating a command-line application that dynamically generates a professional RE
 
     ![README gif](./assets/images/README.gif)
 
-    [README Preview Link](https://drive.google.com/file/d/1HsF6egzhh_6h8P6aXA5mr5u7FgDJ8x0Q/view)
+    [README Preview Link](https://drive.google.com/file/d/1OPFmzTPnoZEeAvSCARoGDNXAn3GATT-Z/view)
 
 * SCREENSHOTS
 
