@@ -28,7 +28,7 @@ Creating a command-line application that dynamically generates a professional RE
 ![generateMarkdown](./assets/images/generateMarkdown.js.png)
 
 ## Credits
-1. My Trilogy Educatrion Tutor, Jacob Carver - https://www.linkedin.com/in/jacob-carver-software-developer125b81191/
+1. My Trilogy Education Tutor, Jacob Carver - https://www.linkedin.com/in/jacob-carver-software-developer125b81191/
 1. Information on how and what I can use using Inquirer Package - https://www.npmjs.com/package/inquirer
 1. Outsourcing for ideas on how to write a good README - https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9
 1. Gathered examples on README contents - https://www.drupal.org/docs/develop/documenting-your-project/readme-template
