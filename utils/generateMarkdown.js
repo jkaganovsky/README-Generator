@@ -31,7 +31,8 @@ ${data.description}
 * ${data.credits}
 
 ## License
-![GitHub license](https://img.shields.io/badge/license-${data.license}-blue.svg)
+![License Badge](https://img.shields.io/badge/license-${data.license}-blue.svg)
+[License Note](https://opensource.org/licenses/${data.license})
 
 `}
 
