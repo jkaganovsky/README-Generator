@@ -5,9 +5,8 @@ Creating a command-line application that dynamically generates a professional RE
 
 ## Links
 1. [Github Repository](https://github.com/jkaganovsky/README-Generator)
-1. [Deployed Website](https://jkaganovsky.github.io/README-Generator/)
 
-## Usage
+## Installation & Usage
 1. Clone this repository from my github link.
 1. Run your local computer's terminal and git clone this repository to save to your local computer.
 1. Run node index.js on your terminal and answer the questions being asked.
