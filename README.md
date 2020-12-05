@@ -16,9 +16,16 @@ Creating a command-line application that dynamically generates a professional RE
 
 ## Content
 * DEMO
+
     ![README gif](./assets/images/README.gif)
 
     [README Preview Link](https://drive.google.com/file/d/1HsF6egzhh_6h8P6aXA5mr5u7FgDJ8x0Q/view)
+
+* SCREENSHOTS
+
+![index](./assets/images/Index.js.png)
+
+![generateMarkdown](./assets/images/generateMarkdown.js.png)
 
 ## Credits
 1. My Trilogy Educatrion Tutor, Jacob Carver - https://www.linkedin.com/in/jacob-carver-software-developer125b81191/
