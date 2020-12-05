@@ -6,12 +6,16 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table Of Contents
+1. [Links](#Links)
 1. [Installation Instructions](#Installations)
 1. [Usage Information](#Usage)
 1. [Contribution Guidelines](#Contribution)
 1. [Illustration](#Illustration)
 1. [Credits](#Credits)
 1. [License](#License)
+
+## Links
+[Github Repository](https://github.com/${data.username})
 
 ## Installation Guidelines
 * ${data.installations}
@@ -20,6 +24,8 @@ ${data.description}
 * ${data.usage}
 
 ## Contribution Guidelines
+* Contact Me at ${data.email}
+
 [![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 [Contributor Covenant Text](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.txt)
 
