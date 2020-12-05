@@ -7,9 +7,15 @@ Creating a command-line application that dynamically generates a professional RE
 1. [Github Repository](https://github.com/jkaganovsky/README-Generator)
 1. [Deployed Website](https://jkaganovsky.github.io/README-Generator/)
 
-## Content and Description
+## Usage
+1. Clone this repository from my github link.
+1. Run your local computer's terminal and git clone this repository to save to your local computer.
+1. Run node index.js on your terminal and answer the questions being asked.
+1. When done, your new README.md file will be created and saved as README_OUTPUT.md
+
+## Content
 * DEMO
-![gif](./assets/images/README.gif)
+[gif](./assets/images/README.gif)
 
 ## Credits
 1. My Trilogy Educatrion Tutor, Jacob Carver - https://www.linkedin.com/in/jacob-carver-software-developer125b81191/
@@ -17,10 +23,9 @@ Creating a command-line application that dynamically generates a professional RE
 1. Outsourcing for ideas on how to write a good README - https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9
 1. Gathered examples on README contents - https://www.drupal.org/docs/develop/documenting-your-project/readme-template
 1. Further examples of a README template - https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
-1.
 
 ## License
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 MIT License
 
