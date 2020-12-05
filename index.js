@@ -36,6 +36,16 @@ inquirer
         name: 'credits',
         },
         {
+        type: 'input',
+        message: 'What is your GitHub username?',
+        name: 'username',
+        },
+        {
+        type: 'input',
+        message: 'What is your e-mail address?',
+        name: 'email',
+        },
+        {
         type: 'list',
         message: 'Which license would you like to add to your project?',
         choices: [
