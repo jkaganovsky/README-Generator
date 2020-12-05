@@ -1,3 +1,5 @@
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # README-Generator
 
 ## Description
@@ -35,8 +37,6 @@ Creating a command-line application that dynamically generates a professional RE
 1. Further examples of a README template - https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
 
 ## License
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-
 MIT License
 
 Copyright (c) [2020] [Jailanie Kaganovsky]
