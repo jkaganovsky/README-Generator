@@ -9,6 +9,8 @@ Creating a command-line application that dynamically generates a professional RE
 ## Installation & Usage
 1. Clone this repository from my github link.
 1. Run your local computer's terminal and git clone this repository to save to your local computer.
+1. Install Node.js to your local computer if you don't have it (https://nodejs.org/en/).
+1. Run `npm i inquirer` to install the Inquirer package to the cloned repository's folder.
 1. Run node index.js on your terminal and answer the questions being asked.
 1. When done, your new README.md file will be created and saved as README_OUTPUT.md
 
