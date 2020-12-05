@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("./generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
 inquirer
@@ -12,23 +12,18 @@ inquirer
         },
         {
         type: 'input',
-        message: 'Write a short description of your project.',
+        message: 'Write a short description about your project.',
         name: 'description',
         },
         {
         type: 'input',
-        message: 'What applications will you need to install?',
+        message: 'What are the steps required to install your project?',
         name: 'installations',
         },
         {
         type: 'input',
-        message: 'How will your project be used?',
+        message: 'Provide instructions and examples for using your project.',
         name: 'usage',
-        },
-        {
-        type: 'input',
-        message: 'What steps should your contributors take?',
-        name: 'contributions',
         },
         {
         type: 'input',
@@ -41,7 +36,7 @@ inquirer
         name: 'credits',
         },
         {
-        type: 'checkbox',
+        type: 'list',
         message: 'Which license would you like to add to your project?',
         choices: [
                 "Apache-2.0",
@@ -60,7 +55,7 @@ inquirer
     ])
     .then((response) => {
 
-        fs.writeFile( "README.md", generateMarkdown(response), (err) =>
+        fs.writeFile( "README_OUTPUT.md", generateMarkdown(response), (err) =>
         err ? console.error("Failed to create a README file.") : console.error("New README file created!")
         );
         }
