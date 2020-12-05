@@ -1,6 +1,11 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+
+![License Badge](https://img.shields.io/badge/license-${data.license}-blue.svg)
+[![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+# ${data.title}
 
 ## Description
 ${data.description}
@@ -26,7 +31,6 @@ ${data.description}
 ## Contribution Guidelines
 * Contact Me at ${data.email}
 
-[![Contributor Covenant Badge](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 [Contributor Covenant Text](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.txt)
 
 
@@ -37,7 +41,6 @@ ${data.description}
 * ${data.credits}
 
 ## License
-![License Badge](https://img.shields.io/badge/license-${data.license}-blue.svg)
 [License Note](https://opensource.org/licenses/${data.license})
 
 `}
